@@ -61,22 +61,22 @@ When this shared space was created, the following was already created and comple
 ### Commit History
 
 #### Repo: noteblockcommons/noteblock_webapp
-- `4343be788497cdbc47776eb79fd712cf0fde16fe` by **Mark** on `master` branch
+- `4343be788497cdbc47776eb79fd712cf0fde16fe` by **Mark** on `master` branch <br />
 Init commit
-- `f339ba30a048ff9596e3cafd2802da34e4bb7448` by **Antony** on `sso-auth` branch
+- `f339ba30a048ff9596e3cafd2802da34e4bb7448` by **Antony** on `sso-auth` branch <br />
 Adding AuthProvider
-- `bc91a87a5a8e1babef0d401207c6026b5db36604` by **Antony** on `sso-auth` branch
+- `bc91a87a5a8e1babef0d401207c6026b5db36604` by **Antony** on `sso-auth` branch <br />
 Adding Auth to existing Sign Up button
-- `1f70c1df4cae0556387687445abfc7483394b8a2` by **Antony** on `sso-auth` branch
+- `1f70c1df4cae0556387687445abfc7483394b8a2` by **Antony** on `sso-auth` branch <br />
 README.md update to describe changes
-- `42ae855af652ff9e343154c98f57719766ea38df` by **Antony** on `sso-auth-ts` branch
+- `42ae855af652ff9e343154c98f57719766ea38df` by **Antony** on `sso-auth-ts` branch <br />
 Upgrades to enable typescript in app for future development
 
 
 #### Repo: forked repo -> noteblockcommons/NoteBlockWebApp
-- `e7867a44a656497ad2e135de1532283f3fac5add` by **Antony** on forked repo on Antony's account
+- `e7867a44a656497ad2e135de1532283f3fac5add` by **Antony** on forked repo on Antony's account <br />
 Adding typescript v 4.4.3 to package.json + tsconfig where `#include` is applied to all files in `/src` + test upgrades
-- `0eaf1e32faf19a145151a5c9101b68c7971ec24c` by **Antony** on forked repo on Antony's account
+- `0eaf1e32faf19a145151a5c9101b68c7971ec24c` by **Antony** on forked repo on Antony's account <br />
 Minor .gitignore updates
 
 
