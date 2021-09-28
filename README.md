@@ -27,13 +27,13 @@ When this shared space was created, the following was already created and comple
 - Product design, roadmap, products, etc
 
 ## TODO - Short Term + low errort
-- [x] Authentication research ** Completed by Antony **
-- [x] Integrate Auth0 with a Log In/ Sign In button - works on localhost ** Completed by Antony **
-- [x] Setup GitHub Pro to require approvals for PRs from forked repo ** Completed and Paid for by Mark **
-- [ ] Upgrade components to MaterialUI to reduce complexity + to upgrade look + feel ** WIP by Antony **
-- [ ] Upgrade app to typescript to faster development + access to better documented libraries ** WIP by Antony **
-- [ ] AWS env variable setup for Auth0 with PROD account ** WIP - Assigned to Mark ** 
-- [ ] Side Nav for documentation, white paper, etc ** WIP by Anotny **
+- [x] Authentication research **Completed by Antony**
+- [x] Integrate Auth0 with a Log In/ Sign In button - works on localhost **Completed by Antony**
+- [x] Setup GitHub Pro to require approvals for PRs from forked repo **Completed and Paid for by Mark**
+- [ ] Upgrade components to MaterialUI to reduce complexity + to upgrade look + feel **WIP by Antony**
+- [ ] Upgrade app to typescript to faster development + access to better documented libraries **WIP by Antony**
+- [ ] AWS env variable setup for Auth0 with PROD account **WIP - Assigned to Mark** 
+- [ ] Side Nav for documentation, white paper, etc **WIP by Anotny**
 
 ## TODO  next priorities:
 - [ ] Choose 3rd party for email newsletter
@@ -51,7 +51,7 @@ When this shared space was created, the following was already created and comple
 - [ ] Creation of Coin Reservation page for 50 day resevation period
 - [ ] Routing for Tokens page, Auctions page, Licensing Page from tabs in the header. Mock up will be provided.
 - [ ] POST and GET requests to IPFS for audio file storage
-- [ ] Add google analytic code to env variables ** Assigned to Mark **
+- [ ] Add google analytic code to env variables **Assigned to Mark**
 
 
 # Below will be moved into a spreadsheet of some kind. The info is a placeholder
