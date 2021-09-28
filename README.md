@@ -59,11 +59,42 @@ When this shared space was created, the following was already created and comple
 ## History:
 
 ### Commit History
-#### Repo: noteblockcommons/NoteBlockWebApp
+
+#### Repo: noteblockcommons/noteblock_webapp
+- `4343be788497cdbc47776eb79fd712cf0fde16fe` by **Mark** on `master` branch
+Init commit
+- `f339ba30a048ff9596e3cafd2802da34e4bb7448` by **Antony** on `sso-auth` branch
+Adding AuthProvider
+- `bc91a87a5a8e1babef0d401207c6026b5db36604` by **Antony** on `sso-auth` branch
+Adding Auth to existing Sign Up button
+- `1f70c1df4cae0556387687445abfc7483394b8a2` by **Antony** on `sso-auth` branch
+README.md update to describe changes
+- `42ae855af652ff9e343154c98f57719766ea38df` by **Antony** on `sso-auth-ts` branch
+Upgrades to enable typescript in app for future development
+
+
+#### Repo: forked repo -> noteblockcommons/NoteBlockWebApp
 
 
 ### Issue history
+#### Repo: noteblockcommons/noteblock_webapp
+1. As a user, I want to be authenticated by the app
+  - Completed on localhost by Antony
+2. Convert application to typescript 
+  - Completed on localhost by Antony
+3. Convert app to use Material UI over current User facing module
+  - WIP by Antony
+4. auth0 integration also requires clientId setup
+  - Reviewed by both Mark and Antony over call on 9/25/21, Solution found together, WIP by Mark
+5. Create button for metamask connection by user
+  - Showcased by Mark on 9/25/21 call, WIP by Antony
+6. Make metamask button visible or active after login 
+  - Showcased by Mark on 9/25/21 call, WIP by Antony
 
-
+#### Repo: forked repo -> noteblockcommons/NoteBlockWebApp
+1. Upgrade application to use typescript
+  - Completed by Antony 9/26. Pending PR reviewal
+2. Upgrade application to use Material-UI 
+  - WIP by Antony. Suggested by Antony as well
 
 ## Technical Notes:
