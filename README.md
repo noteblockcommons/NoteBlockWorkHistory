@@ -74,27 +74,31 @@ Upgrades to enable typescript in app for future development
 
 
 #### Repo: forked repo -> noteblockcommons/NoteBlockWebApp
+- `e7867a44a656497ad2e135de1532283f3fac5add` by **Antony** on forked repo on Antony's account
+Adding typescript v 4.4.3 to package.json + tsconfig where `#include` is applied to all files in `/src` + test upgrades
+- `0eaf1e32faf19a145151a5c9101b68c7971ec24c` by **Antony** on forked repo on Antony's account
+Minor .gitignore updates
 
 
 ### Issue history
 #### Repo: noteblockcommons/noteblock_webapp
 1. As a user, I want to be authenticated by the app
-  - Completed on localhost by Antony
+    - Completed on localhost by Antony
 2. Convert application to typescript 
-  - Completed on localhost by Antony
+    - Completed on localhost by Antony
 3. Convert app to use Material UI over current User facing module
-  - WIP by Antony
+    - WIP by Antony
 4. auth0 integration also requires clientId setup
-  - Reviewed by both Mark and Antony over call on 9/25/21, Solution found together, WIP by Mark
+    - Reviewed by both Mark and Antony over call on 9/25/21, Solution found together, WIP by Mark
 5. Create button for metamask connection by user
-  - Showcased by Mark on 9/25/21 call, WIP by Antony
+    - Showcased by Mark on 9/25/21 call, WIP by Antony
 6. Make metamask button visible or active after login 
-  - Showcased by Mark on 9/25/21 call, WIP by Antony
+    - Showcased by Mark on 9/25/21 call, WIP by Antony
 
 #### Repo: forked repo -> noteblockcommons/NoteBlockWebApp
 1. Upgrade application to use typescript
-  - Completed by Antony 9/26. Pending PR reviewal
+    - Completed by Antony 9/26. Pending PR reviewal
 2. Upgrade application to use Material-UI 
-  - WIP by Antony. Suggested by Antony as well
+    - WIP by Antony. Suggested by Antony as well
 
 ## Technical Notes:
