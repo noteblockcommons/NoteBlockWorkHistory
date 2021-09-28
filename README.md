@@ -26,20 +26,20 @@ When this shared space was created, the following was already created and comple
 - Logos and names created by Mark are seen on functioning application
 - Product design, roadmap, products, etc
 
-## TODO - Short Term + low errort
+## TODO - Short Term + low effort
 - [x] Authentication research **Completed by Antony**
 - [x] Integrate Auth0 with a Log In/ Sign In button - works on localhost **Completed by Antony**
 - [x] Setup GitHub Pro to require approvals for PRs from forked repo **Completed and Paid for by Mark**
 - [ ] Upgrade components to MaterialUI to reduce complexity + to upgrade look + feel **WIP by Antony**
 - [ ] Upgrade app to typescript to faster development + access to better documented libraries **WIP by Antony**
 - [ ] AWS env variable setup for Auth0 with PROD account **WIP - Assigned to Mark** 
-- [ ] Side Nav for documentation, white paper, etc **WIP by Anotny**
+- [ ] Side Nav for documentation, white paper, etc **WIP by Antony**
 
 ## TODO  next priorities:
 - [ ] Choose 3rd party for email newsletter
 - [ ] Integrate Email Newsletter Sign up
 - [ ] Connect to Metamask functionality
-- [ ] Functionality dependant on successful authentication (such as connecting to metmask)
+- [ ] Functionality dependent on successful authentication (such as connecting to Metamask)
 - [ ] Sitemap.xml setup for SEO
 
 ## Roadmap - i.e. longer term TODOs:
@@ -48,7 +48,7 @@ When this shared space was created, the following was already created and comple
   - User will see tiles that represent the tokens they already have created. Tiles will be paginated so that users with > a number, perhaps 10, will have a page 2 etc 
 - [ ] Creation of Auctions page
 - [ ] Creation of Licensing page
-- [ ] Creation of Coin Reservation page for 50 day resevation period
+- [ ] Creation of Coin Reservation page for 50 day reservation period
 - [ ] Routing for Tokens page, Auctions page, Licensing Page from tabs in the header. Mock up will be provided.
 - [ ] POST and GET requests to IPFS for audio file storage
 - [ ] Add google analytic code to env variables **Assigned to Mark**
